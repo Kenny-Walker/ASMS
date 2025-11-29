@@ -1,0 +1,70 @@
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.csproj.AssemblyReference.cache
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.AssemblyInfoInputs.cache
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.AssemblyInfo.cs
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.csproj.CoreCompileInputs.cache
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\appsettings.json
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Automated Smart Metering System.exe
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Automated Smart Metering System.deps.json
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Automated Smart Metering System.runtimeconfig.json
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Automated Smart Metering System.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Automated Smart Metering System.pdb
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\BCrypt.Net.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\staticwebassets\msbuild.Automated Smart Metering System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\staticwebassets\msbuild.build.Automated Smart Metering System.props
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Automated Smart Metering System.props
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Automated Smart Metering System.props
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\scopedcss\bundle\Automated Smart Metering System.styles.css
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.csproj.CopyComplete
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\refint\Automated Smart Metering System.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.pdb
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\Automated Smart Metering System.genruntimeconfig.cache
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\obj\Debug\net6.0\ref\Automated Smart Metering System.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kenny Allen\Documents\Automated Smart Metering System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
